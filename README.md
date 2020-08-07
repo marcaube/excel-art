@@ -2,6 +2,14 @@
 
 Convert a picture to a piece of Excel art.
 
+**Turn this...**
+
+![](docs/cat.jpg)
+
+**Into this!**
+
+![](docs/cat-excel.png)
+
 ## But... why ?
 
 I saw [this tweet](https://twitter.com/labnol/status/966637211939635200) earlier and figured it would be easy and fun to replicate.
